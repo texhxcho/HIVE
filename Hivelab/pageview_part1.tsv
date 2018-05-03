@@ -1,0 +1,4 @@
+10	1111	http://hello.com/	http://google.com/	2222,3333	job:student,salary:5000	192.168.10.10	china
+20	1111	http://world.com/	http://google.com/	3333	job:business,salary:10000	192.168.10.10	us
+	2222	http://foo.com/	http://yahoo.com/	5555,4444,1111	job:student.salary:5000	210.1.10.10	korea
+20	3333	http://bar.com/	http://bing.com/	3333,1111	job:professor,salary:8000	210.1.10.10	us

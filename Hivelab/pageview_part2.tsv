@@ -1,0 +1,4 @@
+19	1111	http://hello.com/	http://daum.com/	2222,5555	hobby:football,married:yes	192.168.5.10	us
+50	2222	http://apple.com/	http://google.com/	1111,2222	job:student,status:unempolyeed	192.168.10.10	china
+	2222	http://foo.com/	http://facebook.com/	4444,2222,1111	job:professor,salary:10000	210.2.10.10	korea
+10	4444	http://bar.com/	http://bing.com/	3333	hobby:football	212.1.10.10	china
